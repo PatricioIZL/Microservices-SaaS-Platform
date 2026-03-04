@@ -1,4 +1,4 @@
-class User {
+export class User {
     private readonly id: string;
     private email: string;
     private nameDisplay: string;
